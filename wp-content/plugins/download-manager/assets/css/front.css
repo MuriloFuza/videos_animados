@@ -789,7 +789,7 @@
     height: 200px;
     border: 2px dashed #ddd;
     margin: 15px;
-    background: url(https://murilofuza.github.io/wordpress-cg/wp-content/plugins/download-manager/assets/images/plus.svg) no-repeat center center;
+    background: url(https://murilofuza.github.io/videos_animados/wp-content/plugins/download-manager/assets/images/plus.svg) no-repeat center center;
     background-size: 48px;
     text-indent: -999999px;
 }
@@ -2235,7 +2235,7 @@
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background: #ffffff url("https://murilofuza.github.io/wordpress-cg/wp-content/plugins/download-manager/assets/images/sort.svg") calc(100% - 10px) center no-repeat !important;
+    background: #ffffff url("https://murilofuza.github.io/videos_animados/wp-content/plugins/download-manager/assets/images/sort.svg") calc(100% - 10px) center no-repeat !important;
     background-size: 15px !important;
     padding-right: 10px !important;
     cursor: pointer;
@@ -2335,7 +2335,7 @@ svg#wpdm-loading rect{
     left: 0;
     top: 0;
     z-index: 1;
-    background: rgba(255, 255, 255, 0.8) url("https://murilofuza.github.io/wordpress-cg/wp-content/plugins/download-manager/assets/images/loader.svg") center center no-repeat;
+    background: rgba(255, 255, 255, 0.8) url("https://murilofuza.github.io/videos_animados/wp-content/plugins/download-manager/assets/images/loader.svg") center center no-repeat;
     background-size: 64px;
     -webkit-transition: ease-in-out 400ms;
     -moz-transition: ease-in-out 400ms;
